@@ -4,6 +4,7 @@
 > **Target**: Fast approval, professional quality, zero user data collection.
 
 ---
+
 ## General Development Guidelines
 
 - **Dependency Management**: Never manually edit `pubspec.yaml`. Always use terminal commands (e.g., `flutter pub add`) to add dependencies to ensure the latest compatible versions are used.
